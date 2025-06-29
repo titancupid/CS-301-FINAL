@@ -1,4 +1,4 @@
-# 🩺 Heart Disease Prediction Project
+# 🩺 Heart Failure Prediction using ML
 
 This project focuses on predicting the presence of heart disease using patient health data. It was completed as part of the **CS 301: Introduction to Data Science** course at NJIT.
 
