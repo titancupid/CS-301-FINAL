@@ -14,16 +14,17 @@ Using a real-world healthcare dataset, we performed:
 
 ## Key Takeaway
 
-In the context of healthcare, **recall is especially important** - it’s often more harmful to miss a diagnosis than to raise a false alarm. Based on our results, the **Support Vector Machine (SVM)** model achieved the highest recall, making it highly effective at identifying patients with heart disease. Meanwhile, the **Naive Bayes** model provided a more balanced performance, with fewer false positives. 
+In the context of healthcare, **recall is especially important** because it’s often more harmful to miss a diagnosis than to raise a false alarm. Based on our results, the **Support Vector Machine (SVM)** model achieved the highest recall, making it highly effective at identifying patients with heart disease. Meanwhile, the **Naive Bayes** model provided a more balanced performance, with fewer false positives. 
 
 Both models proved to be strong candidates, and we carefully weighed their trade-offs during our final comparison.
 
 ## Files
 
 - `heart.csv`: Original dataset downloaded from Kaggle
-- `heart_clean.csv`: Cleaned dataset used for modeling
-- `Vis.ipynb`: Notebook for EDA and data preprocessing
-- `Model_Comparison.ipynb`: Full modeling and evaluation pipeline
+- `heart_clean.csv`: Cleaned dataset
+- `Heart_Clean.ipynb`: Data Preprocessing
+- `Vis.ipynb`: Data Visualization
+- `Model_Comparison.ipynb`: Modeling, Evaluation, and Comparison
 
 ## Contributors
 
